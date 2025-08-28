@@ -26,4 +26,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shashank-shourie&show_icons=true&locale=en" alt="shashank-shourie" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shashank-shourie&" alt="shashank-shourie" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shashank-shourie&show_icons=true" alt="shashank-shourie" /></p>
